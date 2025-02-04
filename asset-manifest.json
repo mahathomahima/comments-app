@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mahathomahima/comments-app.git/static/css/main.7fd96521.css",
+    "main.js": "/mahathomahima/comments-app.git/static/js/main.0c7a63d8.js",
+    "static/js/488.88ce021b.chunk.js": "/mahathomahima/comments-app.git/static/js/488.88ce021b.chunk.js",
+    "index.html": "/mahathomahima/comments-app.git/index.html",
+    "main.7fd96521.css.map": "/mahathomahima/comments-app.git/static/css/main.7fd96521.css.map",
+    "main.0c7a63d8.js.map": "/mahathomahima/comments-app.git/static/js/main.0c7a63d8.js.map",
+    "488.88ce021b.chunk.js.map": "/mahathomahima/comments-app.git/static/js/488.88ce021b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fd96521.css",
+    "static/js/main.0c7a63d8.js"
+  ]
+}
