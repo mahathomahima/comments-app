@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/comments-app/static/css/main.7fd96521.css",
-    "main.js": "/comments-app/static/js/main.6cdda431.js",
-    "static/js/488.88ce021b.chunk.js": "/comments-app/static/js/488.88ce021b.chunk.js",
-    "index.html": "/comments-app/index.html",
-    "main.7fd96521.css.map": "/comments-app/static/css/main.7fd96521.css.map",
-    "main.6cdda431.js.map": "/comments-app/static/js/main.6cdda431.js.map",
-    "488.88ce021b.chunk.js.map": "/comments-app/static/js/488.88ce021b.chunk.js.map"
+    "main.css": "/mahathomahima/comments-app.git/static/css/main.7fd96521.css",
+    "main.js": "/mahathomahima/comments-app.git/static/js/main.0c7a63d8.js",
+    "static/js/488.88ce021b.chunk.js": "/mahathomahima/comments-app.git/static/js/488.88ce021b.chunk.js",
+    "index.html": "/mahathomahima/comments-app.git/index.html",
+    "main.7fd96521.css.map": "/mahathomahima/comments-app.git/static/css/main.7fd96521.css.map",
+    "main.0c7a63d8.js.map": "/mahathomahima/comments-app.git/static/js/main.0c7a63d8.js.map",
+    "488.88ce021b.chunk.js.map": "/mahathomahima/comments-app.git/static/js/488.88ce021b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7fd96521.css",
-    "static/js/main.6cdda431.js"
+    "static/js/main.0c7a63d8.js"
   ]
 }
